@@ -20,7 +20,7 @@
 - 🧠Think logically, code creatively, and build fearlessly
 - ⚡Debugging my code, upgrading my skills, and leveling up my life
 - 💡One developer, endless possibilities
-- 🎯Focused on progress, not perfection
+- 🎯Focused on progress, not perfection.\
 
 
 ## 📊 GitHub Stats & Trophies
@@ -36,6 +36,9 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhKrCh&theme=radical&radius=10" alt="shubhKrCh's Activity Graph" />
 </p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
