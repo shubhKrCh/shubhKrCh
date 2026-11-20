@@ -1,83 +1,130 @@
-<h1 align="center">Hi 👋, I'm SHUBHAM KUMAR</h1>
-<h3 align="center">FRONTEND WEB DEVELOPER</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=SHUBHAM%20KUMAR&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=FRONTEND%20WEB%20DEVELOPER&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/Website-102216?style=for-the-badge&logo=aboutdotme&logoColor=11d452"/>](https://shubham-portfoliofs.netlify.app/)
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/shubhKrCh)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/linkedin.com/in/shubham-chaurasiya-a408a632a)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:shubhamduhaisuhai@gmail.com)
-[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/frxshubham)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20My%20only%20competition%20is%20the%20person%20I%20was%20yesterday%E2%9A%A1" alt="Typing introduction" />
 </p>
 
-<hr/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shubhKrCh&color=11d452&style=for-the-badge" alt="Visitor Badge" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=shubhKrCh">
+    <img src="https://komarev.com/ghpvc/?username=shubhKrCh&label=Profile%20views&color=00FFFF&style=flat-square" alt="shubhKrCh's profile views" />
+  </a>
 </p>
 
-Hey there, digital explorer! 👋
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-I'm **SHUBHAM KUMAR**, your friendly neighborhood pixel-pusher and a dedicated **FRONTEND WEB DEVELOPER**. I spend my days turning caffeine into captivating web interfaces and making sure your online experience is as smooth as freshly buttered toast. 🍞 My superpower? Crafting beautiful, responsive, and ridiculously user-friendly websites that don't just work, they *sing*. 🎶
+## 📌 About Me
+- 💻 Eat, Sleep, Code, Repeat 🔁
+- 🚀 Dream big, code bigger, and never stop growing🌱
+- 👨‍💻 I turn coffee ☕ into code and ideas into reality✨
+- 🔥 My code may not be perfect, but my passion is unlimited
+- 🧠Think logically, code creatively, and build fearlessly
+- ⚡Debugging my code, upgrading my skills, and leveling up my life
+- 💡One developer, endless possibilities
+- 🎯Focused on progress, not perfection.\
 
-### What I'm Cooking Up 🍳
 
-Currently, you'll probably find me knee-deep in JavaScript magic ✨, orchestrating CSS animations, and meticulously arranging pixels until they beg for mercy. My goal is always to build experiences so intuitive, they feel like they're reading your mind. (Still working on that last bit, but the UI is getting there, I promise!)
-
-### Always Learning, Always Evolving 🚀
-
-The web never sleeps, and neither do I (figuratively, mostly). I'm constantly chasing down new technologies, exploring cutting-edge frameworks, and perfecting my performance optimization wizardry. My current obsession might involve diving deeper into component-based architectures or perhaps just finding the perfect emoji for every occasion. 🤔
-
-### Let's Connect! ☕
-
-Got a cool project idea? Want to chat about the latest frontend trends? Or maybe you just need someone to appreciate your perfectly aligned `<div>`s? Don't be a stranger!
-
-*   **Email me:** shubhamduhaisuhai@gmail.com 📧
-*   **Find me on GitHub:** [@shubhKrCh](https://github.com/shubhKrCh) (You're already here, smarty pants! 😉)
-
-Looking forward to building something awesome together!
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy-mu.vercel.app/?username=shubhKrCh&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/shubhKrCh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhKrCh&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="shubhKrCh's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=shubhKrCh&theme=radical&hide_border=true&cache_seconds=86400" alt="shubhKrCh's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=shubhKrCh&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SHUBHAM KUMAR's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhKrCh&theme=radical&radius=10" alt="shubhKrCh's Activity Graph" />
 </p>
 
-## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/AWS-102216?style=for-the-badge&logo=amazonaws&logoColor=11d452" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-102216?style=for-the-badge&logo=canva&logoColor=11d452" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+
 </p>
 
-## 📊 GitHub Analytics
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhKrCh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhKrCh&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhKrCh&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhKrCh&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
 </p>
 
----
-Built with [GPRM](https://gprm.bhalli.dev)
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/shubhKrCh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhKrCh&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=shubhKrCh)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://shubham-portfoliofs.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/916207336159">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shubhamduhaisuhai@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://shubham-portfoliofs.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
