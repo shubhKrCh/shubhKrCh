@@ -20,7 +20,7 @@
 - 🧠Think logically, code creatively, and build fearlessly
 - ⚡Debugging my code, upgrading my skills, and leveling up my life
 - 💡One developer, endless possibilities
-- 🎯Focused on progress, not perfection.\
+- 🎯Focused on progress, not perfection
 
 
 ## 📊 GitHub Stats & Trophies
