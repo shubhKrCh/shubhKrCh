@@ -26,5 +26,5 @@ jobs:
           filename: profile-3d-city.svg
           
           base: ""
-          plugin_isocalendar: yes
+          plugin_isocalendar: full-year 
           plugin_isocalendar_duration: full-year
