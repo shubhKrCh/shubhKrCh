@@ -1,27 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Hi 👋, I'm SHUBHAM KUMAR</h1>
+<h3 align="center">FRONTEND WEB DEVELOPER</h3>
 
+<p align="center">
+[<img src="https://img.shields.io/badge/Website-102216?style=for-the-badge&logo=aboutdotme&logoColor=11d452"/>](https://shubham-portfoliofs.netlify.app/)
+[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/shubhKrCh)
+[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/linkedin.com/in/shubham-chaurasiya-a408a632a)
+[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:shubhamduhaisuhai@gmail.com)
+[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/frxshubham)
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/heyy.shub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frxshubham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shubham-chaurasiya-a408a632a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/wkx_kiwi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamduhaisuhai@gmail.com) 
+<hr/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shubhKrCh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shubhKrCh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubhKrCh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shubhKrCh&color=11d452&style=for-the-badge" alt="Visitor Badge" />
+</p>
+
+Hey there, digital explorer! 👋
+
+I'm **SHUBHAM KUMAR**, your friendly neighborhood pixel-pusher and a dedicated **FRONTEND WEB DEVELOPER**. I spend my days turning caffeine into captivating web interfaces and making sure your online experience is as smooth as freshly buttered toast. 🍞 My superpower? Crafting beautiful, responsive, and ridiculously user-friendly websites that don't just work, they *sing*. 🎶
+
+### What I'm Cooking Up 🍳
+
+Currently, you'll probably find me knee-deep in JavaScript magic ✨, orchestrating CSS animations, and meticulously arranging pixels until they beg for mercy. My goal is always to build experiences so intuitive, they feel like they're reading your mind. (Still working on that last bit, but the UI is getting there, I promise!)
+
+### Always Learning, Always Evolving 🚀
+
+The web never sleeps, and neither do I (figuratively, mostly). I'm constantly chasing down new technologies, exploring cutting-edge frameworks, and perfecting my performance optimization wizardry. My current obsession might involve diving deeper into component-based architectures or perhaps just finding the perfect emoji for every occasion. 🤔
+
+### Let's Connect! ☕
+
+Got a cool project idea? Want to chat about the latest frontend trends? Or maybe you just need someone to appreciate your perfectly aligned `<div>`s? Don't be a stranger!
+
+*   **Email me:** shubhamduhaisuhai@gmail.com 📧
+*   **Find me on GitHub:** [@shubhKrCh](https://github.com/shubhKrCh) (You're already here, smarty pants! 😉)
+
+Looking forward to building something awesome together!
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhKrCh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">
+  <img src="https://github-profile-trophy-mu.vercel.app/?username=shubhKrCh&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhKrCh&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/AWS-102216?style=for-the-badge&logo=amazonaws&logoColor=11d452" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-102216?style=for-the-badge&logo=canva&logoColor=11d452" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhKrCh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhKrCh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhKrCh&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhKrCh&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shubhKrCh&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Built with [GPRM](https://gprm.bhalli.dev)
